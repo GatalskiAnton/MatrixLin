@@ -1,0 +1,3 @@
+/home/antoshka/CLionProjects/OSLab10/MatrixLin/cmake-build-debug/CMakeFiles/MatrixLin.dir
+/home/antoshka/CLionProjects/OSLab10/MatrixLin/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/antoshka/CLionProjects/OSLab10/MatrixLin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
